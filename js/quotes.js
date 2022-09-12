@@ -10,6 +10,7 @@ const quotes = [
   "No matter how good or bad your life is, wake up each morning and be thankful that you still have one.",
   "Never stop trying. Never stop believing. Never give up. Your day will come.",
   "Life is a nonstop journey. Be proud of how far you've come and get excited for how much further you'll go.",
+  "When you know your worth, no one can make you feel worthless.",
 ];
 
 const quote = document.querySelector("#quote span:first-child");
